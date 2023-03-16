@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
 Name        :  uimodule.c
-Authors     :  Khizar Akhtar,Nikhil Narayanan
+Authors     :  Asher Ali,Khizar Akhtar,Nikhil Narayanan
 Version     : 
 Copyright   : 
 Description :  User command parsing thread 
