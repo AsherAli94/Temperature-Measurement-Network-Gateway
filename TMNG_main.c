@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------------
  Name        : TMNG_Main.c
- Authors     : Anees Ahmed Zuberi ,Khizar Akhtar , Nikhil Narayanan
+ Authors     : Asher Ali, Anees Ahmed Zuberi ,Khizar Akhtar , Nikhil Narayanan
  Version     :
  Copyright   : 
  Description : Main file
