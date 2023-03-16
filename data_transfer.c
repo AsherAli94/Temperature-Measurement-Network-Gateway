@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
 Name        :  data_transfer.c
-Authors     :  Nikhil Narayanan
+Authors     :  Nikhil Narayanan, Asher Ali
 Version     : 
 Copyright   : 
 Description :  Cyclic thread for ethernet transmission, PB and SW
