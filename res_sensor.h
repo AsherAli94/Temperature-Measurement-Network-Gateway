@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
 Name        :  res_sensor.h
-Authors     :  Nikhil Narayanan
+Authors     :  Nikhil Narayanan, Asher Ali
 Version     : 
 Copyright   : 
 Description :  Header file for res_sensor.c module
