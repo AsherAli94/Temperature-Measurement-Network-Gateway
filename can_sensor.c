@@ -2,7 +2,7 @@
 ===========================================================================
 =
 Name : testcan.c
-Authors : Muhammad Hussain
+Authors : Muhammad Hussain, Asher Ali
 Version :
 Description :
 
