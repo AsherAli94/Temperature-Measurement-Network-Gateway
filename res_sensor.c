@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
 Name        :  res_sensor.c
-Authors     :  Nikhil Narayanan
+Authors     :  Nikhil Narayanan, Asher Ali
 Version     : 
 Copyright   : 
 Description :  Module for resistive sensor measurement 
