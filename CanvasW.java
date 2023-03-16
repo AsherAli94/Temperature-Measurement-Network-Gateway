@@ -1,12 +1,10 @@
 /*
  ===============================================================================
  Name        : CanvasW.java
- Authors     : Kushal Kumar Kasina
- 	 	 	   Susmita Bishwajit Dey
- 	 	 	   Triveni Desai
- Version     : -
+ Authors     : Asher Ali
+ Version     : 3
  Copyright   : Prof. Dr. Ing. Kai Mueller , 05-DEC-2020
- Description : Display of TCP connection, CANOpen connection, Sensor Data 
+ Description : Display of TCP connection, RTD sensor connection, CANOpen connection, Sensor Data 
 			   and Time Stamp on the Canvas Panel.
  ===============================================================================
  */
